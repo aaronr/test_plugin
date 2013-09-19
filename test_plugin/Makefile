@@ -17,6 +17,7 @@
 # *                                                                         *
 # ***************************************************************************/
 
+
 # Makefile for a PyQGIS plugin 
 
 PLUGINNAME = foss4g2011_example1_starter
